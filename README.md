@@ -1,61 +1,13 @@
-FreeCodeCamp Certification Projects: 
+FreeCodeCamp Certification Projects:
 
-Project 1 Palindrome Checker
+Project 1 Palindrome Checker 
+Palindrome Checker is a simple web app that checks if a given string reads the same forwards and backwards. It allows the user to input text, click a “Check” button, and displays whether the input is a palindrome or not. The project uses HTML for structure, CSS for styling, and JavaScript to handle the palindrome logic with basic error handling.
 
-Description: 
-A simple web app to check if a given string is a palindrome (reads the same forwards and backwards).
+Project 2 Roman Numeral Converter 
+Roman Numeral Converter converts a number between 1 and 3999 into its Roman numeral equivalent. It features number input with validation, displays the Roman numeral output, and shows error messages for invalid input. Technologies used include HTML, CSS, and JavaScript for the conversion logic and input validation. The project handles numbers 1 through 3999 only and includes console logging for debugging.
 
-Features:
-•	User inputs text
-•	Click “Check” button
-•	Displays if input is a palindrome or not
-
-Technologies:
-•	HTML for structure
-•	CSS for styling 
-•	JavaScript for palindrome logic
-
-Notes:
-Basic error handling in JavaScript
-
-Project 2 Roman Numeral Converter
-
-Description: 
-Converts a number (1-3999) to its Roman numeral equivalent.
-
-Features: 
-•	Number input with validation
-•	Displays Roman numeral output
-•	Error messages for invalid input
-
-Technologies:
-•	HTML for structure
-•	CSS for styling
-•	JavaScript for conversion logic and input validation
-
-•	Notes: 
-•	Handles numbers 1 through 3999 only
-•	Includes console logging for debugging   
-
-Project 3 Telephone Number Validator
-
-Description: 
-Validates US telephone numbers in various common formats.
-
-Features: 
-•	Text input for phone number
-•	Checks validity using regex patterns
-•	Displays valid/invalid message
-•	Clear input and output buttons
-
-Technologies: 
-•	HTML for structure
-•	CSS for styling
-•	JavaScript for regex validation logic
-
-Notes: 
-•	Uses multiple regex patterns for flexibility
-•	Alerts if input is empty
+Project 3 Telephone Number Validator 
+Telephone Number Validator validates US telephone numbers in various common formats. It provides a text input for the phone number, checks validity using multiple regex patterns, and displays a valid or invalid message. It also includes clear input and output buttons. This project uses HTML for structure, CSS for styling, and JavaScript for regex validation logic. It alerts the user if the input is empty.
 
 
   
