@@ -12,7 +12,7 @@ Project 1 Palindrome Checker
   
   Technologies
     HTML for structure
-    CSS for styling (linked but not provided)
+    CSS for styling 
     JavaScript for palindrome logic
   
   Notes
