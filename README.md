@@ -8,7 +8,7 @@ Palindrome Checker is a simple web app that checks if a given string reads the s
 Project 2 Roman Numeral Converter 
 
 
-Roman Numeral Converter converts a number between 1 and 3999 into its Roman numeral equivalent. It features number input with validation, displays the Roman numeral output, and shows error messages for invalid input. Technologies used include HTML, CSS, and JavaScript for the conversion logic and input validation. The project handles numbers 1 through 3999 only and includes console logging for debugging.
+Roman Numeral Converter converts a number between 1 and 3999 into its Roman numeral equivalent. It features number input with validation, displays the Roman numeral output, and shows error messages for invalid input. Technologies used include HTML, CSS, and JavaScript for the conversion logic and input validation. The project includes console logging for debugging.
 
 Project 3 Telephone Number Validator 
 
