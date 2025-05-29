@@ -3,6 +3,7 @@ FreeCodeCamp Certification Projects:
 
 
 Project 1 Palindrome Checker 
+
 HTML, CSS, JavaScript
 
 
@@ -10,6 +11,7 @@ Palindrome Checker is a simple web app that checks if a given string reads the s
 
 
 Project 2 Roman Numeral Converter 
+
 HTML, CSS, JavaScript
 
 
@@ -17,6 +19,7 @@ Roman Numeral Converter converts a number between 1 and 3999 into its Roman nume
 
 
 Project 3 Telephone Number Validator 
+
 HTML, CSS, JavaScript
 
 
