@@ -37,4 +37,24 @@ Notes:
   Handles numbers 1 through 3999 only
   Includes console logging for debugging   
 
+  Project 3 Telephone Number Validator
+
+Description: 
+  Validates US telephone numbers in various common formats.
+
+Features: 
+  Text input for phone number
+  Checks validity using regex patterns
+  Displays valid/invalid message
+  Clear input and output buttons
+
+Technologies: 
+  HTML for structure
+  CSS for styling
+  JavaScript for regex validation logic
+
+Notes: 
+  Uses multiple regex patterns for flexibility
+  Alerts if input is empty
+
   
