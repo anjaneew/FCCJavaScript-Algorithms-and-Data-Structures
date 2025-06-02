@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+
+#container{
+    display: flex;
+    flex-direction: grid;
+
+    background-color: rgb(25, 204, 180);
+    height: 80%;
+}
+
+.boxes{
+    background-color: rgb(190, 146, 208);
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
